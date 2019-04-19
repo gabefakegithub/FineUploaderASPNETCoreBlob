@@ -1,0 +1,13 @@
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\FineUploaderAspCoreExample.deps.json
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\FineUploaderAspCoreExample.runtimeconfig.json
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\FineUploaderAspCoreExample.runtimeconfig.dev.json
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\FineUploaderAspCoreExample.dll
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\FineUploaderAspCoreExample.pdb
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.csprojAssemblyReference.cache
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.AssemblyInfoInputs.cache
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.AssemblyInfo.cs
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.dll
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\obj\Release\netcoreapp2.0\FineUploaderAspCoreExample.pdb
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\bin\Release\netcoreapp2.0\temp\PlaceholderSoThatTempFolderDeploys11002200.txt

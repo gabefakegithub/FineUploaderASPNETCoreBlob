@@ -1,0 +1,12 @@
+C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=FineUploaderAspCoreExample
+--content-root=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Home\About.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Home\Contact.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Home\Index.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Shared\Error.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Shared\_Layout.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\_ViewImports.cshtml
+--file=C:\Users\gabes\source\repos\Fine-Uploader-ASP.NET-Core-2-Example-master\FineUploaderAspCoreExample\Views\_ViewStart.cshtml
